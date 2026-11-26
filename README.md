@@ -8,7 +8,7 @@ The dashboard allows users to explore sales information through interactive slic
 
 ## Dashboard Preview
 
-![Power BI Sales Dashboard](images/sales_dashboard.png)
+![Power BI Sales Dashboard](images/dashboard_1.png)
 
 ## Dataset
 
